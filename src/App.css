@@ -49,3 +49,12 @@ h2 {
   font-size: 16px;
   line-height: 1.5;
 }
+.green-icon {
+  color: green;
+  font-weight: bold;
+}
+
+.orange-icon {
+  color: orange;
+  font-weight: bold;
+}
